@@ -1,16 +1,61 @@
 ### Hi there 👋
 
-<!--
-**elisaaferraraa/elisaaferraraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor's thesis focused on the analysis, simulation, and control of a UAV quadrotor prototype. Currently, I'm pursuing projects in robotics, controls, and machine learning, exploring various aspects of these fields.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## About Me
+- 🎓 Graduated from the University of Florence with a Bachelor's thesis titled "Analysis, Simulation, and Control of a UAV Quadrotor Prototype."
+- 🌟 Experienced in robotics, controls, and machine learning.
+- 🚀 Passionate about implementing control systems for various applications, from quadcopters to rockets.
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying in the Master of Robotics and Artificial Intelligence
+
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 work in robotics field applied on medical or aerospace
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Lapo on LinkedIn" title="Follow Lapo on LinkedIn"/>](https://www.linkedin.com/in/lapo-carrieri/)
+
+## Current Projects
+### Controller for a Quadcopter Prototype
+Bachelor thesis project focused on the analysis, simulation, and control of a UAV quadrotor prototype.
+[Repository Link](https://github.com/elisaaferraraa/Controller-for-a-quadcopter-prototype)
+
+### MPC
+MPC problems from EPFL MPC course by C. Jones.
+[Repository Link](https://github.com/elisaaferraraa/MPC)
+
+### Rocket MPC Project
+Control system development for a rocket using various MPC techniques for trajectory tracking. EPFL, MPC course of Prof. C. Jones. Autumn 2023.
+[Repository Link](https://github.com/elisaaferraraa/Rocket_MPC_project)
+
+### Mobile Robotics Thymio Project
+Project involving sensing, vision, navigation, and Kalman filtering over a differential drive robot. EPFL course Basics of Mobile Robotics by Prof. F. Mondada. Autumn 2023.
+[Repository Link](https://github.com/elisaaferraraa/Mobile-Robotics-Thymio-project)
+
+### RobotStudio for Manipulators
+Projects from the Robotics Systems course at the University of Alcalà de Henares focusing on RobotStudio with ABB IRB120 manipulators.
+[Repository Link](https://github.com/elisaaferraraa/RobotStudio-for-Manipulators)
+
+### Machine Learning
+Programming projects in machine learning.
+[Repository Link](https://github.com/elisaaferraraa/Machine-Learning)
+
+### Kalman
+Private repository for Kalman filtering projects.
+[Repository Link](https://github.com/elisaaferraraa/kalman)
+
+## Contact Me
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/elisa-ferrara).
+
+
+
+
+
+
