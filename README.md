@@ -25,7 +25,7 @@ I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor'
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Lapo on LinkedIn" title="Follow Lapo on LinkedIn"/>](https://www.linkedin.com/in/elisa-ferrara-b0592426a/)
 
-## Current Projects
+## Past Projects
 ### Controller for a Quadcopter Prototype
 Bachelor thesis project focused on the analysis, simulation, and control of a UAV quadrotor prototype.
 [Repository Link](https://github.com/elisaaferraraa/Controller-for-a-quadcopter-prototype)
