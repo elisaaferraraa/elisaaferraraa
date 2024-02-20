@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor's thesis focused on the analysis, simulation, and control of a UAV quadrotor prototype. Currently, I'm pursuing projects in robotics, controls, and machine learning, exploring various aspects of these fields.
+I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor's thesis focused on the analysis, simulation, and control of a UAV quadrotor prototype. Currently, I'm pursuing projects in robotics, controls, and machine learning, exploring various aspects of these fields thanks to the ongoing Master Robotics in EPFL.
 
 
 
