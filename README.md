@@ -54,10 +54,6 @@ Programming projects in machine learning.
 Private repository for Kalman filtering projects.
 [Repository Link](https://github.com/elisaaferraraa/kalman)
 
-## Contact Me
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/elisa-ferrara).
-
-
 
 
 
