@@ -50,6 +50,18 @@ Projects from the Robotics Systems course at the University of Alcalà de Henare
 Programming projects in machine learning.
 [Repository Link](https://github.com/elisaaferraraa/Machine-Learning)
 
+### Computer-Vision
+Labs of the course of Computer Vision of Prof. P. Fua, Spring 2024 EPFL.
+[Repository Link] (https://github.com/elisaaferraraa/Computer-Vision)
+
+### DeepLearning-for-Autonomous-Vehicles
+Course of Deep Learning for Autonomous Vehicles from EPFL Spring 2024.
+[Repository Link] (https://github.com/elisaaferraraa/DeepLearning-for-Autonomous-Vehicles)
+
+
+### OMRON-XDelta3-1
+Project on the OMRON XDelta3+1 robot. Laser Cutting application in various conditions. EPFL Spring 2024
+[[Repository Link]](https://github.com/elisaaferraraa/OMRON-XDelta3-1)
 
 
 
