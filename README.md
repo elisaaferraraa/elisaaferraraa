@@ -50,9 +50,6 @@ Projects from the Robotics Systems course at the University of Alcalà de Henare
 Programming projects in machine learning.
 [Repository Link](https://github.com/elisaaferraraa/Machine-Learning)
 
-### Kalman
-Private repository for Kalman filtering projects.
-[Repository Link](https://github.com/elisaaferraraa/kalman)
 
 
 
