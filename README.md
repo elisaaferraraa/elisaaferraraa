@@ -8,6 +8,7 @@ I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor'
 
 
 ## About Me
+- 🚀 Working as an Intern at Elythor: Visual Localization system in GNSS-denied environments
 - 📚 Attending Robotics Master in EPFL. Mobile Robotics Path
 - 🎓 Graduated from the University of Florence with a Bachelor's thesis titled "Analysis, Simulation, and Control of a UAV Quadrotor Prototype."
 - 🌟 Experienced in robotics, controls, machine learning and robot-vision.
