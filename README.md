@@ -27,41 +27,46 @@ I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor'
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Lapo on LinkedIn" title="Follow Lapo on LinkedIn"/>](https://www.linkedin.com/in/elisa-ferrara-b0592426a/)
 
 ## Past Projects
-### Controller for a Quadcopter Prototype
-Bachelor thesis project focused on the analysis, simulation, and control of a UAV quadrotor prototype.
-[Repository Link](https://github.com/elisaaferraraa/Controller-for-a-quadcopter-prototype)
 
-### MPC
-MPC problems from EPFL MPC course by C. Jones.
+### Reinforcement Learning
+- Labs of RL course of Prof. Cevher Volkan. EPFL Spring 2025. 
+
+### DeepLearning for Autonomous Vehicles
+- Trajectory prediction with transformed-based network project at [link](https://github.com/alessandrodalbesio/EPFL-deep-learning-for-autonomous-vehicles-project)
+- Course of Deep Learning for Autonomous Vehicles from EPFL Spring 2024.
+[Repository Link] (https://github.com/elisaaferraraa/DeepLearning-for-Autonomous-Vehicles)
+
+### Computer Vision
+- Labs of the course of Computer Vision of Prof. P. Fua, Spring 2024 EPFL.
+[Repository Link] (https://github.com/elisaaferraraa/Computer-Vision)
+- Labs of the course of Image Analysis and Pattern Recognition by Prof. Jean-Philippe Thiran from EPFL Spring 2025. [Repository Link](https://github.com/fra-mgl/image_analysis)
+
+### Aerial Robotics
+Aerial Robotics course of Prof. Dario Floreano. Project on autonomur mission for a Crazyflie. [Repository Link](https://github.com/grilloandrea6/aerial-robotics-project)
+
+### MPC-Model Predictive Control
+- Rocket control with MPC. [Repository Link](https://github.com/elisaaferraraa/Rocket_MPC_project) December 2023.
+- MPC problems from EPFL MPC course by C. Jones. Autumn 2023
 [Repository Link](https://github.com/elisaaferraraa/MPC)
 
-### Rocket MPC Project
-Control system development for a rocket using various MPC techniques for trajectory tracking. EPFL, MPC course of Prof. C. Jones. Autumn 2023.
-[Repository Link](https://github.com/elisaaferraraa/Rocket_MPC_project)
+### Controller for a Quadcopter Prototype
+Bachelor thesis project focused on the analysis, simulation, and control of a UAV quadrotor prototype. July 2023.
+[Repository Link](https://github.com/elisaaferraraa/Controller-for-a-quadcopter-prototype)
 
 ### Mobile Robotics Thymio Project
 Project involving sensing, vision, navigation, and Kalman filtering over a differential drive robot. EPFL course Basics of Mobile Robotics by Prof. F. Mondada. Autumn 2023.
 [Repository Link](https://github.com/elisaaferraraa/Mobile-Robotics-Thymio-project)
 
-### RobotStudio for Manipulators
-Projects from the Robotics Systems course at the University of Alcalà de Henares focusing on RobotStudio with ABB IRB120 manipulators.
-[Repository Link](https://github.com/elisaaferraraa/RobotStudio-for-Manipulators)
-
 ### Machine Learning
-Programming projects in machine learning.
+Programming projects in machine learning. EPFL, Machine Learning Programming by Aude Billard. Autumn 2023.
 [Repository Link](https://github.com/elisaaferraraa/Machine-Learning)
 
-### Computer-Vision
-Labs of the course of Computer Vision of Prof. P. Fua, Spring 2024 EPFL.
-[Repository Link] (https://github.com/elisaaferraraa/Computer-Vision)
-
-### DeepLearning-for-Autonomous-Vehicles
-Course of Deep Learning for Autonomous Vehicles from EPFL Spring 2024.
-[Repository Link] (https://github.com/elisaaferraraa/DeepLearning-for-Autonomous-Vehicles)
-
+### RobotStudio for Manipulators
+Projects from the Robotics Systems course at the University of Alcalà de Henares focusing on RobotStudio with ABB IRB120 manipulators. Autumn 2022.
+[Repository Link](https://github.com/elisaaferraraa/RobotStudio-for-Manipulators)
 
 ### OMRON-XDelta3-1
-Project on the OMRON XDelta3+1 robot. Laser Cutting application in various conditions. EPFL Spring 2024
+Project on the OMRON XDelta3+1 robot. Laser Cutting application in various conditions. EPFL Spring 2024.
 [[Repository Link]](https://github.com/elisaaferraraa/OMRON-XDelta3-1)
 
 
