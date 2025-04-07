@@ -29,7 +29,7 @@ I graduated from the University of Florence as Electrical Engineer with a Bachel
 - Labs of RL course of Prof. Cevher Volkan. EPFL Spring 2025. 
 
 ### DeepLearning for Autonomous Vehicles
-- Trajectory prediction with transformed-based network project at [link](https://github.com/alessandrodalbesio/EPFL-deep-learning-for-autonomous-vehicles-project)
+- Trajectory prediction with transformed-based network project. [Repository Link](https://github.com/alessandrodalbesio/EPFL-deep-learning-for-autonomous-vehicles-project)
 - Course of Deep Learning for Autonomous Vehicles from EPFL Spring 2024.
 [Repository Link] (https://github.com/elisaaferraraa/DeepLearning-for-Autonomous-Vehicles)
 
