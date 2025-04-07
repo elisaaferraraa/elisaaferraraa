@@ -1,22 +1,19 @@
 ### Hi there 👋
 
-I am Elisa Ferrara. I graduated from the University of Florence with a Bachelor's thesis focused on the analysis, simulation, and control of a UAV quadrotor prototype. Currently, I'm pursuing projects in robotics, controls, and machine learning, exploring various aspects of these fields thanks to the ongoing Master Robotics in EPFL.
-
-
-
-
+I am Elisa Ferrara. Currently, I'm pursuing projects in robotics, perception, controls, using tools as ML and DL and exploring various aspects of these fields thanks to the ongoing Master Robotics in EPFL.
+I graduated from the University of Florence as Electrical Engineer with a Bachelor's thesis focused on the analysis, simulation, and control of a UAV quadrotor prototype.
 
 
 ## About Me
-- 🚀 Working as an Intern at Elythor: Visual Localization system in GNSS-denied environments
+- 👀 Working at CVLab of EPFL designing from scratch the traditional CV coding assignment for the COmputer Vision course of Prof. Fua Pascal.
+- 🚀 Worked as an Intern at Elythor: Visual Localization system in GNSS-denied environments
 - 📚 Attending Robotics Master in EPFL. Mobile Robotics Path
 - 🎓 Graduated from the University of Florence with a Bachelor's thesis titled "Analysis, Simulation, and Control of a UAV Quadrotor Prototype."
 - 🌟 Experienced in robotics, controls, machine learning and robot-vision.
-- 🚀 Passionate about implementing control systems for various applications, from quadcopters to rockets and various techniques, from simple PID to MPC.
-
+- 🚀 Passionate about UAVs and their flight endurance challenge
+  
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 focusing on two main paths: Robot-Vision and Control Systems
-
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 work in robotics field applied on autonomous navigation and vehicles, drones or manipulators. I will apply my competences to boost their object recognition and traking, then trajectory predicion and planning
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
