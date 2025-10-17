@@ -35,12 +35,13 @@ I graduated from the University of Florence as Electrical Engineer with a Bachel
 [Repository Link](https://github.com/elisaaferraraa/DeepLearning-for-Autonomous-Vehicles)
 
 ### Computer Vision
+- Labs of the course of Image Analysis and Pattern Recognition by Prof. Jean-Philippe Thiran from EPFL Spring 2025. [Repository Link](https://github.com/fra-mgl/image_analysis)
 - Labs of the course of Computer Vision of Prof. P. Fua, Spring 2024 EPFL.
 [Repository Link](https://github.com/elisaaferraraa/Computer-Vision)
-- Labs of the course of Image Analysis and Pattern Recognition by Prof. Jean-Philippe Thiran from EPFL Spring 2025. [Repository Link](https://github.com/fra-mgl/image_analysis)
 
 ### Aerial Robotics
-Aerial Robotics course of Prof. Dario Floreano. Project on autonomur mission for a Crazyflie. [Repository Link](https://github.com/grilloandrea6/aerial-robotics-project)
+- Flight Controller for a morphing drone. Embedded version for the ESP32. Spring 2025, EPFL, LIS Lab. [Repository Link](https://github.com/elisaaferraraa/LISparrow_EmbeddedController).
+- Aerial Robotics course of Prof. Dario Floreano. Project on autonomur mission for a Crazyflie. [Repository Link](https://github.com/grilloandrea6/aerial-robotics-project)
 
 ### MPC-Model Predictive Control
 - Rocket control with MPC. [Repository Link](https://github.com/elisaaferraraa/Rocket_MPC_project) December 2023.
